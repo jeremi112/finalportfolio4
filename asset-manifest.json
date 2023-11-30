@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/finalportfolio4/static/css/main.f049556e.css",
+    "main.js": "/finalportfolio4/static/js/main.9ccd3b2d.js",
+    "static/js/787.0f52d28b.chunk.js": "/finalportfolio4/static/js/787.0f52d28b.chunk.js",
+    "static/media/Top.mp4": "/finalportfolio4/static/media/Top.d2621dd7fc51896bcf1f.mp4",
+    "static/media/background2.jpg": "/finalportfolio4/static/media/background2.5cb26f5dc84cc661ff2e.jpg",
+    "static/media/gambar4.jpg": "/finalportfolio4/static/media/gambar4.4cc78aeb45ba2d31e9a7.jpg",
+    "static/media/volunteer.jpg": "/finalportfolio4/static/media/volunteer.2237b6ff5a10ca62bb3c.jpg",
+    "static/media/restaurant.jpg": "/finalportfolio4/static/media/restaurant.fd2f5d5a9c4abb5a6820.jpg",
+    "static/media/thanks.jpg": "/finalportfolio4/static/media/thanks.fb25d0db44cd26b6b046.jpg",
+    "static/media/Newcompany.jpg": "/finalportfolio4/static/media/Newcompany.9a0d8a42db474e68b3ea.jpg",
+    "static/media/gambar3.jpg": "/finalportfolio4/static/media/gambar3.41956fd15fa48466f56c.jpg",
+    "static/media/gambar2.jpg": "/finalportfolio4/static/media/gambar2.0a4893421f4eb80a395c.jpg",
+    "static/media/portfolio.jpg": "/finalportfolio4/static/media/portfolio.27cbbb8cd44a04503e74.jpg",
+    "static/media/responsive.jpg": "/finalportfolio4/static/media/responsive.4bed31782e4416f3cf38.jpg",
+    "static/media/informatika.jpeg": "/finalportfolio4/static/media/informatika.396020bb482948dc588a.jpeg",
+    "static/media/sendEmail.jpg": "/finalportfolio4/static/media/sendEmail.3db68c2340ee83629d6f.jpg",
+    "index.html": "/finalportfolio4/index.html",
+    "main.f049556e.css.map": "/finalportfolio4/static/css/main.f049556e.css.map",
+    "main.9ccd3b2d.js.map": "/finalportfolio4/static/js/main.9ccd3b2d.js.map",
+    "787.0f52d28b.chunk.js.map": "/finalportfolio4/static/js/787.0f52d28b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f049556e.css",
+    "static/js/main.9ccd3b2d.js"
+  ]
+}
